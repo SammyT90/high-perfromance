@@ -1,2 +1,2 @@
 # high-perfromance
-High perfromance newsletter
+(https://sammyt90.github.io/high-perfromance/)
